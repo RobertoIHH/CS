@@ -1,0 +1,24 @@
+1.- Para que el codigo funcione de manera correcta se debera de instalar lo siguiente o se puede revisar el archivo de nombre InstaladoR
+
+pip install PyMuPDF
+pip install openpyxl
+pip install python-docx
+
+2.- Para ejecutar el programa sera de la sigueinte manera:
+
+python metadatosR.py
+
+3.- Una vez ejecutado, se le solicitara ingresar la ruta donde se encontraran los archivos a obtener los metadatos, ejemplo: 
+
+/home/zicfro/Downloads
+
+De estar mal escrita la ruta el programa se terminara y se debera de volver a ejecutar
+
+4.- Despues se le solicitara que ingrese la extencion de la que desea obtener los metadatos (.docx, .xlsx o .pdf) ejemplo:
+
+.docx
+
+------------------------------------------------------------------------------------------
+Se agregaron los archivos con los que se realizaron las pruebas del correcto funcionamiento del codigo, al igual que las capturas de pantalla de los resultados de las pruebas para su verificacion
+
+Tambien se agrego el archivo que muestra lo que se instalo para el correcto funcionamiento del codigo, el archivo es InstaladoR.txt para comprobar que se tiene todo lo necesario para probar el codigo
